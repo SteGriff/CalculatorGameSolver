@@ -67,9 +67,9 @@ var ops = [
 
 The recursive algorithm explores every possible tree of operations until it finds one that works. It takes one step closer (perhaps) to the solution of the problem and then calls itself with the new data:
 
- > To get from 1 to 3 in 2 moves, I will first apply a +1
- > To get from 2 to 3 in 1 move, I will first apply a +1
- > I did it! Unload the operations on the stack and print them out
+ > * To get from 1 to 3 in 2 moves, I will first apply a +1
+ > * To get from 2 to 3 in 1 move, I will first apply a +1
+ > * I did it! Unload the operations on the stack and print them out
  
 ## License
 
