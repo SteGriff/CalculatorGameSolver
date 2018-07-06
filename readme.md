@@ -2,7 +2,7 @@
 
 The [calculator game][calcgame] is an Android game where you have a limited number and range of maths operations with which to change one number into another. The game's puzzles can be solved using a recursive solver, and that's what this is! **Warning** this will suck the fun out of the game for you :)
 
-![Screenshot of the calculator game](samplerun.PNG)
+![Screenshot of the calculator game](calcgame.PNG)
 
 [calcgame]: https://play.google.com/store/apps/details?id=com.sm.calculateme
 
